@@ -13,7 +13,11 @@
 
 </div>
 
+---
+
 ## 🚀 About Me
+
+> **"One day I'll make the most powerful AI in this Universe"**
 
 I'm a passionate **AI Engineer** specializing in **Generative AI**, **Large Language Models**, and **Quantitative Systems**. With hands-on experience building **70+ real-time AI systems**, I focus on creating scalable, efficient solutions that deliver measurable impact.
 
@@ -62,26 +66,6 @@ I'm a passionate **AI Engineer** specializing in **Generative AI**, **Large Lang
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roboticslover&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Featured Projects
-
-### 🧠 [Multilingual Fake News Detection System](https://github.com/roboticslover/fake-news-detector)
-**93% accuracy** across **7 languages** with **1200+ monthly users**
-- 🚀 Reduced query time from **15 minutes to 30 seconds**
-- 🔧 **Tech Stack**: HuggingFace Transformers, RAG, Streamlit, OpenCV
-- 📈 **Impact**: Serving real-time fact-checking for diverse global audience
-
-### 📈 [Project Annie - Quantitative AI Trading Platform](https://github.com/roboticslover/project-annie)
-**70+ trading bots** with **87% average accuracy** across **5K+ stocks**
-- 🤖 **NLP Engine**: Processing **10K+ news articles daily**
-- 📊 **Dashboard**: **50+ indicators**, **25+ metrics** integrated
-- 💼 **Impact**: **95% reduction** in analyst workload
-
-### 🔍 [RAG-Powered Fact Checker](https://github.com/roboticslover/rag-fact-checker)
-**68% faster responses** with **97% precision accuracy**
-- 🎯 **Innovation**: Optimized prompt routing reducing hallucinations by **37%**
-- 🎨 **UX**: Revamped interface tripling user engagement
-- 🔧 **Tech**: Advanced RAG architecture with vector similarity search
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 **Deep Learning Specialization** - Coursera (97% Score)
@@ -90,33 +74,24 @@ I'm a passionate **AI Engineer** specializing in **Generative AI**, **Large Lang
 - 🚀 **GitHub Maintainer** - 113 AI & Quantitative Finance repositories
 - 📚 **Research Publications** - 2 papers on GenAI applications in Finance
 
-## 📈 Current Focus
+## 💼 Experience
 
-```python
-class SachinRathore:
-    def __init__(self):
-        self.role = "AI Engineer & Researcher"
-        self.current_focus = [
-            "Building production-ready RAG systems",
-            "Optimizing LLM performance and reducing hallucinations",
-            "Developing AI agents for financial markets",
-            "Research in Generative AI applications"
-        ]
-        self.learning = [
-            "Advanced prompt engineering techniques",
-            "Multi-modal AI systems",
-            "AI safety and alignment",
-            "Distributed training systems"
-        ]
-    
-    def get_collaboration_interests(self):
-        return [
-            "Open source AI projects",
-            "Research in LLM optimization",
-            "FinTech AI applications",
-            "Educational AI tools"
-        ]
-```
+**AI Research Intern** · *BITS Pilani* · `Jan 2025 – Apr 2025`
+- Developed fact-checking RAG app; 68% faster answers, 97% precision
+- Reduced hallucinations by 37% using optimized prompt routing
+- Revamped tagging UX; tripled user engagement
+
+**Generative AI Intern** · *OpenQQuantify (Remote, USA)* · `Apr 2024 – Nov 2024`
+- Built real-time electronics analysis APIs; improved latency by 35%
+- Automated data scraping pipelines; tripled data volume, 75% time saved
+- Integrated vector DB + RAG stack; boosted retrieval accuracy by 40%
+- Scaled inference to 10K+ records/day at 99.7% precision
+
+## 🎓 Education
+
+**B.Tech in Computer Engineering** · Bikaner Technical University, Sikar Campus · `2025` · **CGPA: 8.0/10**
+- Relevant Courses: AI, ML, Deep Learning, Algorithms, Data Science
+- Research: 2 AI papers (unpublished) on GenAI & Finance
 
 ## 🤝 Let's Connect!
 
